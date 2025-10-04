@@ -46,8 +46,7 @@ TrashSpace is an engaging arcade-style game that combines space navigation, prec
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/trashspace.git
-cd trashspace
+git clone https://github.com/Kairyou-ML/SpaceTrash.git
 ```
 
 2. Install required dependencies:
@@ -57,8 +56,9 @@ pip install pygame numpy
 
 3. Run the game:
 ```bash
-python trashspace.py
+python checkpoint2.py 
 ```
+NOTE: change name file with the last checkpoint if it exists. (For instance, use ```python checkpoint3.py ```)
 
 ##  How to Play
 
